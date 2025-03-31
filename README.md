@@ -1,4 +1,3 @@
-# Multi-vender-project
 
 Overview
 
@@ -24,16 +23,14 @@ Tech Stack
 
 Backend:
 Django
-Django REST Framework (DRF)
 PostgreSQL/MySQL
 
 Frontend:
 
-React.js
-Redux (for state management)
-Tailwind CSS/Bootstrap
-
+HTML, CSS
+Javascript
 Installation & Setup
+
 Backend Setup:
 # Clone the repository
 git clone https://github.com/DabhiAyushi/Multi-vender-project.git
