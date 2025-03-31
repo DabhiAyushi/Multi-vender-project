@@ -1,4 +1,4 @@
-
+#Multi-Vendor-Project
 Overview
 
 This project is a Multi-Vendor E-Commerce Platform built using Django for the backend and React for the frontend. The platform allows multiple vendors to list their products, manage inventory, and process orders while customers can browse, purchase, and review products seamlessly.
